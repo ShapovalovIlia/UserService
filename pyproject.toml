@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "dating"
+name = "UserService"
 version = "0.1.0"
 description = ""
 authors = ["ShapovalovIlia <ilia-shapvalov04@mail.ru>"]
